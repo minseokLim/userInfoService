@@ -1,0 +1,8 @@
+user-info:
+  key: 123
+---
+spring:
+  profiles: local
+logging:
+  level:
+    org.springframework: INFO
